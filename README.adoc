@@ -1,4 +1,4 @@
-= Sierra Club Exhibit Librarian 
+= Sierra Club Exhibitor
 
 This software is itended to help Sierra Club employees and volunteers track the lending and return of items used in Sierra Club public relations (photos, artwork, artefacts, etc).
 
